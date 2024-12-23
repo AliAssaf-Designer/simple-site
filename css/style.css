@@ -8,21 +8,21 @@ Author URL: https://....;
  */
 
 body{
-   background-image: url(../img/bodybg.jpg);
-   color: #000305;
-   font-size: 85%;
-   font-family: Arial, 'Lucida Sans Unicode';
-   line-height: 1.5;
-   text-align: left;
-   & a{
-       text-decoration: none;
-   }
-   & a:link,a:visited{
-       color: #e74c3c;
-   }
-   & a:hover,a:active{
-       color: #f58233;
-   }
+    background-image: url(../img/bodybg.jpg);
+    color: #000305;
+    font-size: 85%;
+    font-family: Arial, 'Lucida Sans Unicode';
+    line-height: 1.5;
+    text-align: left;
+    & a{
+        text-decoration: none;
+    }
+    & a:link,a:visited{
+        color: #e74c3c;
+    }
+    & a:hover,a:active{
+        color: #f58233;
+    }
 }
 .body{
     margin: 10px auto;
